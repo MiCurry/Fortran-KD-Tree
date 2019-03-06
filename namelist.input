@@ -1,0 +1,11 @@
+$testvars
+   npoints = 90000
+   ndims = 5
+   lrange = 0
+   urange = 50
+   ntests = 50000
+   npoints_l = 1
+   npoints_u = 10000
+   ndims_l = 1
+   ndims_u = 8
+/
